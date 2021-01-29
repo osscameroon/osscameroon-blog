@@ -1,0 +1,76 @@
+baseURL = "https://blog.osscameroon.com"
+languageCode = "en-us"
+title = "Blog Oss Cameroon"
+theme = "hugo-theme-chunky-poster-master"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    url = "/post/oss-vision"
+    weight = 11
+  [[menu.main]]
+    identifier = "contributors"
+    name = "Contributors"
+    url = "/z_contributors/"
+    weight = 0
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Oss Cameroon"
+  description = "Cameroonian open source"
+  homepageImage = "images/homepage-image.svg"
+  dateFormat = "January 2, 2006"
+  share = true
+#   showLanguageSwitcher = false
+
+  # Custom CSS and JS. Relative to /static/css and /static/js respectively.
+#   customCSS = []
+#   customJS = []
+
+  [params.social]
+#     rss = true
+#     email = "example@example.com"
+#     facebook = "https://facebook.com"
+#     twitter = "https://twitter.com"
+#     linkedin = "https://linkedin.com"
+#     stack-overflow = "https://stackoverflow.com"
+#     instagram = "https://stackoverflow.com"
+    github = "https://github.com/osscameroon"
+#     weibo = "https://www.weibo.com"
+#     medium = "https://medium.com"
+#     pinterest = "https://pinterest.com"
+#     reddit = "https://reddit.com"
+#     gitlab = "https://gitlab.com"
+#     mastodon = "https://mastodon.social"
+#     keybase = "https://keybase.io/"
+
+  [params.prismJS]
+    enable = true
+    theme = "okaidia"
+
+  [params.commento]
+    enable = false
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
