@@ -2,6 +2,7 @@ baseURL = "https://blog.osscameroon.com"
 languageCode = "en-us"
 title = "Blog Oss Cameroon"
 theme = "hugo-theme-chunky-poster-master"
+googleAnalytics = "G-N51SQZSY9L"
 
 [menu]
   [[menu.main]]
