@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+{{ template "_internal/google_analytics.html" . }}
 <title>
   {{ block "title" . }}
     {{ with .Params.Title }} {{ . }} | {{ end }}
@@ -42,7 +42,6 @@
 {{ range .Site.Params.customCSS -}}
     <link rel="stylesheet" href="{{ "css/" | relURL }}{{ . }}">
 {{ end }}
-
 <link rel="canonical" href="{{ .Permalink }}">
 {{- with .OutputFormats.Get "RSS" }}
   <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}">
