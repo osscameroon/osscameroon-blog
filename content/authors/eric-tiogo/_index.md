@@ -1,5 +1,5 @@
 ---
 name: "Eric Tiogo"
-images: []
+images: ["eric_tiogo.png"]
 twitter: "tericcabrel"
 ---
