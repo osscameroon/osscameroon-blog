@@ -45,7 +45,6 @@ jobs:
           key: ${{ secrets.DROPLET_DEPLOY_SSHKEY }}
           source: public.tar
           target: /home/deploy/osscameroon-blog
-          strip_components: 1
           overwrite: true
 
       - name: Executing remote  command
