@@ -7,99 +7,97 @@ date: 2021-01-29T21:26:12+01:00
 authors: ["Eric Tiogo"]
 ---
 
-# Notre Vision pour OSS Cameroon
+# About OSS Cameroon
 
-La plus part des domaines d'activités contient un ensemble de problèmes qui peuvent majoritairement être résolu par les Technologies de l'Information et de la Communication. Notre pays étant en voie de développement, il a un fort besoin de compétences dans les secteurs techniques particulièrement dans les TIC. Nous voulons encourager la jeunesse à choisir ce domaine de spécialisation afin de faire grandir l'écosystème du numérique; vulgariser la culture tech dans la population car plus nous proposerons des solutions à des problèmes rencontrés au quotidien par la population,  nombreux serons ceux qui développerons cette attitude à penser numérique. A travers cette initiative, nous voulons promouvoir le talent et savoir-faire des camerounais en utilisant nos connaissances techniques pour apporter des solutions à des problèmes identifiés dans notre société.
+# **Vision**
 
-# **Objectifs**
+Most of the fields of activity contain a set of problems which can mainly be solved by Information and Communication Technologies. Our country is developing, he has a strong need for skills in technicals sectors, particularly in ICT. We want to encourage young people to choose this area of specialization to grow the digital ecosystem; popularize tech culture among the population because the more we will offer solutions to problems encountered daily by the population, shady will be those who will develop this attitude to think digital. Through this initiative, We want to promote the talent and know-how of Cameroonians by using our technicals knowledge to bring solutions to problems found in our society.
 
-- Utiliser nos compétences techniques pour créer applications qui resolvent un besoin spécifique dans notre société.
-- Encourager la collaboration entre développeurs et encourage le travail en équipe
-- Partager nos connaissances car étant dans un domaine qui évolue très vite, on peut apprendre de tout le monde peu importe le niveau de compétence
-- Mentorer / Assister les développeurs moins expérimenté qui ont besoin d'être suivi dans la réalisation d'un projet.
-- Créer un environnement conviviale pour des développeurs de progresser et en travaillant sur un projet qui les passionnent
-- Assister financièrement les développeurs qui ont la volonté de s'améliorer mais manque de moyens pour s'offrir un laptop, connexion internet, cadre de travail, tutoriel payant, etc...
+# Goals
 
-# **Conditions pour rejoindre l'organisation**
+- Using our technical skills to create applications that solve a specific need in our society
+- Encourage collaboration between developers and also encourage the work in team.
+- Share our knowledge because being in a domain who evolves very quickly, we can learn from everybody regardless the skill level.
+- Mentor / Assist less experienced developers who need to be followed in the realization of a project.
+- Create a friendly environment for developers to progress and working on a project they are passionate about.
+- Provide financial assistance to developers who want to improve but lack the means to afford a laptop, internet connection, working environment, paid tutorials, etc ...
 
-Pour rejoindre l'organisation sur Github, aucune condition particulière en dehors de celle d'avoir l'honnêteté d'être sûr qu'on veut vraiment apporter sa contribution.
+# **Conditions for joining the organization**
 
-C'est pas un problème de ne pas d'être dans le groupe Telegram et ne pas interagir. Tant que tu apprends de nouvelles choses c'est le plus important.
+To join the organization on Github, no particular condition apart from having the honesty to be sure that you really want to make your contribution. It's okay not to be in the Telegram group and not interact. As long as you learn new things this is the most important.
 
-Contrairement à l'organisation Github non seulement on a envie de savoir qu'on peut compter sur chacun, mais ça sert aussi d'indicateur à une personne externe voulant nous rejoindre. Imaginez la déception de rejoindre un projet de 20 contributeurs mais se retrouver 1 mois après à être le seul à participer.
+Unlike the Github organization, not only do we want to know that we can count on everyone, but it also serves as an indicator for an external person wanting to join us. Imagine the disappointment of joining a project of 20 contributors but finding yourself 1 month later to be the only one to participate.
 
-# Organisation des projets
+# Organization of projects
 
-La soumission d’idée de projets n’impliquent pas qu’on va bosser dessus immédiatement. L'idée c'est de constituer une liste de projets où toute personne voulant contribuer peut choisir une idée et commencer à bosser dessus.
+Submitting a project idea does not mean that you will be working on it immediately. The idea is to put together a list of projects where anyone who wants to contribute can pick an idea and start working on it.
 
-Voici comment ça va se dérouler :
+Here is the process
 
-1. Tu renseignes une idée de projet sur le repository Github dédié en créant une "issue".   Lien du repository: [https://github.com/osscameroon/Open-Projects](https://github.com/osscameroon/Open-Projects)
-2. On échange dessus afin de mieux comprendre puis tu peux créer le repository du projet
-3. Toute personne voulant contribuer sure le projet peut rejoindre et contribuer
-4. Le créateur du projet et les contributeurs ont une totale autonomie sur les choix du projet. Vous pouvez bien sûr poser des questions dans le groupe pour avoir l’avis des autres.
-5. Privilégier la consistance dans l’exécution du projet par exemple: ***c’est mieux de faire 1h par jour que 10h en un jour par semaine.*** L'idée est de ne pas se retrouver sous pression. Contribuer devrais être un moment de détente.  Cependant, chacun son rythme.
+1. You enter a project idea on the dedicated Github repository by creating an "issue". Link of the repository: [https://github.com/osscameroon/Open-Projects](https://github.com/osscameroon/Open-Projects)
+2. Exchange on it in order to better understand then you can create the project repository
+3. Anyone wishing to contribute to the project can join and contribute
+4. The creator of the project and the contributors have total autonomy over the choices of the project. You can of course ask questions in the group to get feedback from others.
+5. Favour consistency in the execution of the project, for example, ***it is better to do 1 hour per day than 10 hours in one day per week***. The idea is not to find yourself under pressure. Contributing should be a time of relaxation. However, everyone has their own pace.
 
-# P**rojet en cours**
+# Ongoing project
 
-- **Le site web OSS Cameroon :**
-  - Correction des bugs et ajout des fonctionnalités recensées par les membres du groupe.
-  - Ajout de nouvelles fonctionnalités (nous en parlerons avec vous dans le groupe Telegram 😉).
+- **The** **OSS Cameroon Website:**
+  - Fixed bugs and added functionalities identified by group members.
+  - Added new features (we will talk about this with you in the Telegram group 😉).
 
-# Projet à venir
+# Upcoming project
 
 - **CM AppStore**
 
-  Ce projet consiste à développer une application web et mobile qui va recenser toutes les applications mobiles camerounaises et permettre aux utilisateurs d'effectuer une recherche par nom catégorie puis le télécharger.
+  This project consists of developing a web and mobile application which will list all Cameroonian mobile applications and allow users to search by category name and then download it.
 
-  **Tâches à venir :**
+  **Upcoming Tasks :** 
 
-  - Identification des fonctionnalités à developper pour la première version
-  - Planification de l’exécution
+  - Identification of features to develop for the first version
+  - Execution planning
 
-  **Nombre de développeurs intéressés à contribuer sur ce projet : 3**
+  **Number of developers currently interested in contributing to this project: 3**  
 
-# Objectifs mesurables sur le long terme
+# Long term measurables goals
 
-Il nous a été posé à plusieurs reprises la question de savoir quelles sont nos objectifs mesurables sur le long terme. Dans 1 ou 2 ans par exemple, quelles sont les éléments qui nous permettront de savoir si nous sommes entrain de se rapprocher de nos objectifs. Nous avons trouver important de les partager avec vous :
+We have been repeatedly asked the question of what are our measurable long-term goals. In 1 or 2 years for example, what are the elements that will allow us to know if we are getting closer to our objectives? We found it important to share them with you:
 
-- Augmentation du nombre de membres de la communauté sur Telegram et Twitter
-- Plus de présence lors des sessions de live coding
-- Utilisations des applications que nous avons développé par des usagers au jour le jour
-- Democratiser la participation au développement de projets open sources
-- Des développeurs qui nous témoignent avoir gagné en compétences et plus confiant en leurs capacités de mener un projet de bout en bout.
+- Increased number of community members on Telegram and Twitter
+- More presence during live coding sessions
+- Uses of the applications we have developed by day-to-day users
+- Democratize participation in the development of open source projects
+- Developers who tell us they have gained in skills and more confident in their ability to lead a project from end to end.
 
-# Règlements intérieurs
+# Internals Rules
 
-Nous voulons créer un environnement convivial et le plus inclusive possible et afin d’éviter de heurter des membres de la communauté, il est important de définir un ensemble de règles à respecter en vue de l'épanouissement de tout le mode. Nous avons recensé les suivantes :
+We want to create a friendly and inclusive environment as possible and to avoid offending members of the community, it is important to define a set of rules to be respected for the development of the whole mode. We have identified the following:
 
-- Les commentaires sexistes sont interdits et sont sanctionnés d’un bannissement.
-- L’impolitesse, le manque de respect, l’arrogance et la condescendance sont à éviter.
-- Les échanges d'idées doivent se faire dans le calme et le respect des interlocuteurs.
-- Les commentaires et photos qui n’ont rien à voir avec l’objectif du groupe seront supprimés et l’auteur du post sera averti.
-- Le partage d'informations pouvant être utile pour les membres sont à encourager.
+- Sexist comments are prohibited and are subject to ban.
+- Rudeness, disrespect, arrogance and condescension should be avoided.
+- The exchange of ideas must be carried out calmly and with respect for the interlocutors.
+- Comments and photos that have nothing to do with the group's purpose will be removed and the post author will be notified.
+- Sharing of information that may be useful for members is to be encouraged.
 
-# Communication dans le groupe
+# Communication inside the group
 
-Le Cameroun est un pays bilingue et vu que notre communauté vise à réunir tous les Camerounais sans restrictions, il est important de trouver un juste milieu en ce qui concerne la langue utilisée pour s'exprimer dans le groupe.
+Cameroon is a bilingual country and since our community aims to bring together all Cameroonians without restrictions, it is important to find a happy medium when it comes to the language used to express oneself in the group.
 
-Nous avons fait le choix d’utiliser l’anglais pour s’exprimer dans le groupe et voici les raisons:
+We made the choice to use English to express ourselves in the group and here are the reasons: 
 
-- L’anglais c’est la langue professionnelle par excellence dans le monde
-- Le domaine de l’informatique est dominé l’anglais. Les meilleurs contenus sont en anglais. On a tous connu cette personne qui trouve le tutoriel idéal pour son besoin mais abandonne parce que c’est en Anglais. Ca n'arrivera plus si vous prenez cette habitude en commençant par ce groupe.
-- Ça permet de ne pas se priver des personnes étrangères qui veulent rejoindre la communauté pour apporter leurs contributions d'une quelconque manière.
-- Nous voulons que nos frères anglophones soient à l’aise car on a beaucoup à apprendre d’eux.
+- English is the professional language par excellence in the world
+- The field of computer science is dominated by English. The best content is in English. We have all known this person who finds the ideal tutorial for his needs but gives up because it is in English. It won't happen again if you get into this habit by starting with this group.
+- It allows you not to deprive yourself of foreign people who want to join the community to make their contributions in any way.
+- We want our English speaking brothers to be comfortable because we have a lot to learn from them.
 
-# Mentorat
+# Mentoring
 
-Ça consiste à apporter de l’aide aux développeurs moins expérimentés qui ont besoin d’être encadré
+ It consists of providing help to less experienced developers who need to be mentored.
 
-Comment ça se passe ?
+How's it going?
 
-Nous allons créer un sondage afin de mieux comprendre vos attentes à l’égard de cette communauté sur cet aspect. Une chose est sûr il y'a beaucoup de développeur qui aimerait qu'on leur tienne la main et leur guide dans ce domaine bondé de Bibliothèque, Framework, Méthodologie, Langage, etc...
+We will create a survey to better understand your expectations about this community on this aspect. One thing is for sure there are a lot of developers out there who would like to be held hands and their guide in this crowded area of Library, Framework, Methodology, Language, etc ... 
 
-Nous vous inviterons à prendre quelques minutes de votre temps pour le remplir. À partir des résultats nous prendrons des mesures pour mieux vous aidez dans ce sens.
+We will invite you to take a few minutes of your time to complete it then, from the results, we will take measures to better help you in this direction.
 
-Une liste sera ouverte permettant de renseigner votre disponibilité pour mentorer une personne.
-
-Une personne à la recherche de mentor pourra parcourir cette liste et choisi un mentor.
+A list will be opened to indicate your availability to mentor a person an a person looking for a mentor can browse this list and contact a mentor of his choice.
