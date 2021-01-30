@@ -2,9 +2,6 @@ name: Blog Deployment
 
 on:
   push:
-    paths:
-      - .github/workflows/blog-deploy.yaml
-      - ./**
     branches:
       - main
 
