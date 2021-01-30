@@ -1,16 +1,16 @@
 {
-   "name":"Chunky Poster",
-   "short_name":"Chunky Poster",
+   "name":"Blog Oss Cameroon",
+   "short_name":"Blog Oss Cameroon",
    "icons":[
       {
-         "src":"/android-chrome-192x192.png",
+         "src":"/favicon.ico",
          "sizes":"192x192",
-         "type":"image/png"
+         "type":"image/ico"
       },
       {
-         "src":"/android-chrome-512x512.png",
+         "src":"/favicon.ico",
          "sizes":"512x512",
-         "type":"image/png"
+         "type":"image/ico"
       }
    ],
    "theme_color":"#0c344b",
