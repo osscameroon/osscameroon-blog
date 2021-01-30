@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+{{ template "_internal/google_analytics.html" . }}
 <title>
   {{ block "title" . }}
     {{ with .Params.Title }} {{ . }} | {{ end }}
