@@ -6,5 +6,5 @@ twitter: "slipman48"
 
 Hello world :D! I'm Wilfried Kamaha.
 [Junior Software Engineer] [Tech freak]. My focus is Mobile application Development, Web application Development and a bit of Machine learning. 
-Happy coding!
+Happy coding!!
 
