@@ -18,7 +18,7 @@ googleAnalytics = "UA-138504646-3"
   [[menu.main]]
     identifier = "contributors"
     name = "Contributors"
-    url = "/z_contributors/"
+    url = "/post/contributors/"
     weight = 0
 
 
