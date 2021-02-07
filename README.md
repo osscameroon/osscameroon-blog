@@ -128,15 +128,30 @@ twitter: ""
 
 To add a new contributor run:
 
-```shell
-$> hugo new z_contributors/<new_contributor_name>.md
-/Users/<repository_path>/osscameroon-blog/content/z_contributors/<new_contributor_name>.md created
-```
+##### Using hugo
 
+```shell
+$> hugo new post/contributors/<new_contributor_name>.md
+/Users/<repository_path>/osscameroon-blog/content/post/contributors/<new_contributor_name>.md created
+```
 
 
 Your new contributor `<new_contributor_name>.md` file hase been created now add something about him
 
+
+##### Manually
+
+* Create a file `<new_contributor_name>.md` in osscameroon-blog/content/post/contributors
+* Open the `<new_contributor_name>.md` with your editor and add these lines at the top of your file
+```
+---
+title: "<new_contributor_name>"
+date: 2021-01-29T20:33:40+01:00
+authors: ["<new_contributor_name"]
+---
+```
+* Change the `date: <date>` to the date and time you want
+* Save the file
 
 
 ## How Deploy the blog
