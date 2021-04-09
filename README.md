@@ -13,7 +13,7 @@ The blog is powered by the [Hugo](https://gohugo.io/) website generator, with th
 * The **Hugo** cli tool, follow [this steps](https://gohugo.io/getting-started/installing) to install hugo
 * And a Markdown text editor (We can recommend you [**Typora**](https://typora.io/))
 
-*Learn more about **Hugo** [here](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&ab_channel=MikeDane) or read the [documentation*](https://gohugo.io/getting-started/quick-start/)
+Learn more about **Hugo** [here](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&ab_channel=MikeDane) or read the [documentation](https://gohugo.io/getting-started/quick-start/)
 
 
 
