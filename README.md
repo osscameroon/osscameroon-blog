@@ -75,7 +75,7 @@ Now that your post has been added it should be visible on your local instance at
 
 ##### Add your blog post content
 
- Open `/osscameroon-blog/content/post/<my_new_post_name>.md` in your text editor and add you blog content.
+ Open `/osscameroon-blog/content/post/articles/<my_new_post_name>.md` in your text editor and add you blog content.
 
 
 
