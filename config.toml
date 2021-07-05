@@ -16,11 +16,15 @@ googleAnalytics = "UA-138504646-3"
     url = "/post/oss-vision"
     weight = 11
   [[menu.main]]
+    identifier = "articles"
+    name = "Articles"
+    url = "/post/articles/"
+    weight = 12
+  [[menu.main]]
     identifier = "contributors"
     name = "Contributors"
     url = "/post/contributors/"
     weight = 0
-
 
 [taxonomies]
 category = "categories"
