@@ -6,7 +6,8 @@ on:
       - main
 
 jobs:
-    build:
+    deploy:
+      name: deploy
       runs-on: ubuntu-latest
       steps:
       - uses: actions/checkout@v2
@@ -50,3 +51,39 @@ jobs:
           username: ${{ secrets.DROPLET_DEPLOY_USERNAME }}
           key: ${{ secrets.DROPLET_DEPLOY_SSHKEY }}
           script: cd /home/deploy/osscameroon-blog && tar -xvf public.tar && rm -rf public.tar
+
+    notify:
+      needs: deploy
+      runs-on: ubuntu-latest
+      name: send contribution report to osscameroon group
+      steps:
+        - uses: actions/checkout@v2
+        - name: "new name"
+          run: |
+            find ./content/post -name '*.md' | sort | uniq > current_branch_files
+            CURRENT_BRANCH_FILES=$(cat current_branch_files)
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git checkout HEAD~ && git clean -fdx && \
+            find ./content/post -name '*.md' | sort | uniq > previous_branch_files
+            PREVIOUS_BRANCH_FILES=$(cat previous_branch_files)
+            echo "current_branch_files=$CURRENT_BRANCH_FILES"
+            echo "========================================="
+            echo "previous_branch_files=$PREVIOUS_BRANCH_FILES"
+            echo "++++++++++++++++++++++++++++++++++++++++++++"
+            echo "$CURRENT_BRANCH_FILES" > current_branch_files
+
+            set +e
+            POTENTIAL_ARTICLES=$(diff current_branch_files previous_branch_files | grep "content" | sed 's/[<>] //g')
+            set -e
+            echo "Checkout this article on our blog." >> message
+            for article in $POTENTIAL_ARTICLES; do
+              echo "> https://blog.osscameroon.com$(echo $article | sed "s/\.md//g; s/^\.\/content//g")" >> message
+            done
+
+        - name: notify of new blog article creation
+          uses: appleboy/telegram-action@master
+          with:
+            to: ${{ secrets.TELEGRAM_OSSCAMEROON_GROUP_ID }}
+            token: ${{ secrets.TELEGRAM_TEST_CHAT_ID }}
+            message_file: message
