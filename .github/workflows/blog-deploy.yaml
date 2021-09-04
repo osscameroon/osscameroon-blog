@@ -86,6 +86,6 @@ jobs:
         - name: notify of new blog article creation
           uses: appleboy/telegram-action@master
           with:
-            to: ${{ secrets.TELEGRAM_OSSCAMEROON_GROUP_ID }}
-            token: ${{ secrets.TELEGRAM_TEST_CHAT_ID }}
+            to: ${{ secrets.TELEGRAM_TEST_CHAT_ID }}
+            token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
             message_file: message
