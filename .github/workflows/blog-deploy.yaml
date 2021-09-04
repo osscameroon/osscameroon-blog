@@ -86,9 +86,16 @@ jobs:
               echo "> https://blog.osscameroon.com$(echo $article | sed "s/\.md//g; s/^\.\/content//g")" >> message
             done
 
-        - name: notify of new blog article creation
+        - name: notify of new blog article creation to group
           uses: appleboy/telegram-action@master
           with:
-            to: ${{ secrets.TELEGRAM_TEST_CHAT_ID }}
+            to: ${{ secrets.TELEGRAM_OSSCAMEROON_GROUP_ID }}
+            token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+            message_file: message
+
+        - name: notify of new blog article creation to channel
+          uses: appleboy/telegram-action@master
+          with:
+            to: ${{ secrets.TELEGRAM_OSSCAMEROON_CHANNEL_ID }}
             token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
             message_file: message
