@@ -78,6 +78,9 @@ jobs:
             set +e
             POTENTIAL_ARTICLES=$(diff current_branch_files previous_branch_files | grep "content" | sed 's/[<>] //g')
             set -e
+
+            #Fail if there was no potential articles found
+            test -z "$POTENTIAL_ARTICLES"
             echo "Checkout this article on our blog." >> message
             for article in $POTENTIAL_ARTICLES; do
               echo "> https://blog.osscameroon.com$(echo $article | sed "s/\.md//g; s/^\.\/content//g")" >> message
