@@ -80,9 +80,9 @@ Now if you are not famous (whatever that means) here are a couple of things you 
 
 Sorry web designers, I don&rsquo;t mean to shit on your work. But have a look at
 What I see when I browse the Stackoverflow jobs RSS feed
-![newsboat stackoverflow jobs](../../images/newsboat_stackoverflow_jobs.jpg)
+{{<figure src="/remote_work_cameroon/newsboat_stackoverflow_jobs.jpg" alt="newsboat stackoverflow jobs">}}
 Versus the Web interface.
-![stackoverflow jobs web interface](../../images/stackoverflow_jobs_web.jpg)
+{{<figure src="/remote_work_cameroon/stackoverflow_jobs_web.jpg" alt="stackoverflow jobs web interface">}}
 
 Using the RSS feed, at first glance I can see 35 jobs and I already know those
 that aren&rsquo;t a good fit while on the web interface I barely see 3, and if I exclude the featured job, it&rsquo;s just two. Not good at all. There&rsquo;s also the
