@@ -80,7 +80,7 @@ jobs:
             set -e
 
             #Fail if there was no potential articles found
-            test -z "$POTENTIAL_ARTICLES"
+            test ! -z "$POTENTIAL_ARTICLES"
             echo "Checkout this article on our blog." >> message
             for article in $POTENTIAL_ARTICLES; do
               echo "> https://blog.osscameroon.com$(echo $article | sed "s/\.md//g; s/^\.\/content//g")" >> message
