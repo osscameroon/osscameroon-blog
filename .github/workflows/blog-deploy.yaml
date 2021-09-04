@@ -58,6 +58,8 @@ jobs:
       name: send contribution report to osscameroon group
       steps:
         - uses: actions/checkout@v2
+          with:
+            fetch-depth: 2
         - name: "new name"
           run: |
             find ./content/post -name '*.md' | sort | uniq > current_branch_files
