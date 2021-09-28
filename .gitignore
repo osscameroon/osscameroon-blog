@@ -17,3 +17,6 @@
 #hugo
 public
 _gen
+
+# IDE
+.idea/
