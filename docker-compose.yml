@@ -1,0 +1,10 @@
+version: "3"
+services:
+  hugo:
+    container_name: hugo_src
+    image: klakegg/hugo:0.83.1
+    command: server
+    volumes:
+      - ".:/src"
+    ports:
+      - "1313:1313"
