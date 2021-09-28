@@ -1,7 +1,7 @@
 ---
-title: "Elhmn"
-date: 2021-01-29T20:33:40+01:00
-authors: ["Elhmn"]
+title: "Nasser"
+date: 2021-09-28
+authors: ["nab"]
 ---
 
-Hi! I’m **Boris Mbarga**. Self-taught and passionate software engineer. I’m mainly interested in computer graphics, artificial intelligence web/software/mobile development, Math, Physics and visual art. I enjoy finding elegant solutions to relatively complex problems you might encounter. But what I like the most is to share and learn from others.
+👋 Hello world ! I’m **[Nasser](https://nasser.cm/)**, a Python / Odoo developer.
