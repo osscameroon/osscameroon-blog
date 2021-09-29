@@ -9,11 +9,11 @@ This article aims to help you understand the basics of docker. First, I explain 
 
 # Containers VS Virtual Machines
 
-Virtual machines allow multiple operating systems to run on the hardware of a single physical server, while containers allow multiple applications running the same operating system to be deployed on a single virtual machine or server.
+Virtual machines allow multiple operating systems to run on the hardware of a single machine, while containers allow multiple applications running the same operating system to be deployed on a single virtual machine or server.
 
 # What is Docker
 
-Docker is an open source platform used to create, run and deploy applications in containers. Docker allows you to separate applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same way as your applications.
+Docker is an open source platform used to create, run and deploy applications in containers. There is also an Enterprise Version. Docker allows you to separate applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same way as your applications.
 
 ## Image
 
@@ -42,7 +42,7 @@ The Dockerfile is essentially the instructions for building the image. The advan
 # Example dockerfile to install Odoo
 # Note that this Odoo image is based on the debian:buster-slim image
 FROM odoo/odoo:14.0
-LABEL maintainer="You Name. <your@email.com>"
+LABEL maintainer="Your Name. <your@email.com>"
 
 COPY ./requirements_custom.txt /requirements_custom.txt
 
@@ -53,10 +53,10 @@ WORKDIR /odoo/odoo
 USER odoo
 ```
 
-## Docker-Compose
+## Docker Compose
 
-Docker-Compose is a tool for defining and running multi-container Docker applications. With Docker-Compose, you use a YAML file to configure the services of your application before running it on docker.
-This allows you to define the desired number of containers, their builds and storage designs, and then, with a single set of commands, you can build, run and configure all the containers. Docker-Compose is ideal for development, test and deployment environments, as well as for continuous integration workflows.
+Docker Compose is a tool for defining and running multi-container Docker applications. With Docker Compose, you use a YAML file to configure the services of your application before running it on docker.
+This allows you to define the desired number of containers, their builds and storage designs, and then, with a single set of commands, you can build, run and configure all the containers. Docker Compose is ideal for development, test and deployment environments, as well as for continuous integration workflows.
 
 An example for Odoo is that you need one container for the Odoo server, another for the DB server and finally another as pgAdmin to interact with the DB
 
@@ -121,7 +121,7 @@ In the previous **docker-compose.yml** file, you can see the volumes section. Th
 
 Docker networking allows you to attach a container to as many networks as you like. For example, you can attach the Odoo server to the database server. When using the **docker-compose.yml** file, networking is done when you use the **depends_on** keyword in the file.
 
-If you want to do it manually for example by attaching your running web application to a **my_bridge**, you can type
+If you want to do it manually for example by attaching your running web application to a network named **my_bridge**, you can type
 
 ```bash
  docker network connect my_bridge web
@@ -136,7 +136,7 @@ docker-compose up
 # then you can access the container if you want and do what ever you want
 ```
 
-# Install Docker and Docker-Compose
+# Install Docker and Docker Compose
 
 ```bash
 # Installation on Ubuntu 18.04
