@@ -1,6 +1,6 @@
 ---
 title: The fish shell is amazing
-date: 2021-10-8T00:15:28+01:00
+date: 2021-10-08T00:15:28+01:00
 categories: [tutorial, blogging]
 authors: [RMPR]
 ---
