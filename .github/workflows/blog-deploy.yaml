@@ -87,14 +87,14 @@ jobs:
             done
 
         - name: notify of new blog article creation to group
-          uses: appleboy/telegram-action@master
+          uses: appleboy/telegram-action@v0.1.1
           with:
             to: ${{ secrets.TELEGRAM_OSSCAMEROON_GROUP_ID }}
             token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
             message_file: message
 
         - name: notify of new blog article creation to channel
-          uses: appleboy/telegram-action@master
+          uses: appleboy/telegram-action@v0.1.1
           with:
             to: ${{ secrets.TELEGRAM_OSSCAMEROON_CHANNEL_ID }}
             token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
