@@ -83,7 +83,7 @@ According to FreeCodeCamp.org, there are five phases you need to go through when
 
 That's it, here we are at the end of my article. Hope I brought you something new or reminded you of the important things. Thanks for reading.
 
-Here are my sources :
+Here are my sources:
 
 *[https://www.geeksforgeeks.org/why-you-should-become-a-self-taught-programmer](https://www.geeksforgeeks.org/why-you-should-become-a-self-taught-programmer)
 
