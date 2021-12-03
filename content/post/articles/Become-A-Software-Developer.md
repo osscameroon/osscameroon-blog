@@ -26,7 +26,7 @@ When you go to university to get a degree, you have several teachers who are muc
 
 ##### #Cons:
 
-Going to university takes a long time. Usually it takes at least three years to get a degree in computer science,which is too long for some people (like those who are in professional retraining or who are not interested in university courses because of their duration).
+Going to university takes a long time. Usually it takes at least three years to get a degree in computer science, which is too long for some people (like those who are in professional retraining or who are not interested in university courses because of their duration).
 
 Going to university is also very expensive. In Cameroon it is sometimes necessary to count at least 350,000 or 450,000 XAF just for a single year of university study in the Computer Science sector.
 
