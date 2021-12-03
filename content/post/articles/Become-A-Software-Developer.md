@@ -16,7 +16,7 @@ To be an Application Developer, good news there is not just one path, in this ar
 ## Get an university Degree
 
 Going to college to graduate is the traditional path people take to become a developer.
-This path involves obtaining an associate's degree or a minimum bachelor's degree in computer science, computer programming, or a related field.But believe it or not going to college to be a software developer has its pros and cons.
+This path involves obtaining an associate's degree or a minimum bachelor's degree in computer science, computer programming, or a related field. But believe it or not, going to college to be a software developer has its pros and cons.
 
 ##### #Pros:
 
