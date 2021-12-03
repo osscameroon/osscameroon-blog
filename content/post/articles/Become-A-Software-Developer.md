@@ -9,7 +9,7 @@ authors: ["Shaba-Rex"]
 
 {{<figure src="/Become-A-Software-Developer/viva the it.jpeg"  alt="Software Engineering is Cool">}}
 
-Software engineering is the process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages. It is the application of engineering principles to software development.
+Software engineering is the process of analyzing user needs, designing, constructing, and testing end-user applications that will satisfy those needs through the use of software programming languages. It is the application of engineering principles to software development.
 
 To be an Application Developer, good news there is not just one path, in this article we will talk about the different paths you have to take to become a software developer and the advantages and disadvantages of certain paths. But in the end it's up to you to decide which path is best for you.
 
