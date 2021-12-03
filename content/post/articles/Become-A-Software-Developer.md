@@ -57,7 +57,7 @@ Being trained for just 12 weeks in Software Development can be difficult due to 
 
 Usually in bootcamps 90% of learning is done hands-on, but some people feel that the main emphasis should be on concept theory as they find it much more interesting and important than practice.
 
-# Be a full Sel-Taught developer:
+# Be a full self-taught developer:
 
 {{<figure src="/Become-A-Software-Developer/self-taught-developer.jpg"  alt="self-taught-developer">}}
 
