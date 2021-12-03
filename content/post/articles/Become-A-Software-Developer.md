@@ -65,7 +65,7 @@ A self-taught developer doesn't wait for someone to take initiative on their beh
 
 ##### #Pros:
 
-Full developer Self-Taught is much more free we all agree on this, he has no teachers on his back, or an instructor everything happens between him, his computer and obviously the internet (it is better)
+Full developer self-taught is much more free we all agree on this, he has no teachers on his back, or an instructor. Everything happens between him, his computer and obviously the internet (it is better)
 His study program, his projects, his ideas are all from A to Z managed by him, he is taken into consideration much more when he has assimilated the different concepts and principles of software development.
 
 ##### #Cons:
