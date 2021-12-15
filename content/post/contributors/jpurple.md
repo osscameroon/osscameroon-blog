@@ -7,5 +7,5 @@ tags: []
 authors: ["Jpurple"]
 ---
 
-Hi there, I'm Ngnepedoh Irving Craig( yh but call me purple/jpurple ), young aspiring developper. I am an IT enthusiast and am fascinated by Artificial Intelligence. I am familiar with Java, Python and C. Currently working as an android app developper. I look foward to working with you all and am excited about what I will learn here.
+Hi there, I'm Ngnepedoh Irving Craig (yh but call me purple/jpurple), young aspiring developer. I am an IT enthusiast and am fascinated by Artificial Intelligence. I am familiar with Java, Python and C. Currently working as an android app developer. I look forward to working with you all and am excited about what I will learn here.
 
