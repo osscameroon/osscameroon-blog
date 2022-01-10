@@ -1,26 +1,26 @@
 # osscameroon-blog
 
-Oss cameroon blogging website
+OSS Cameroon blogging website
 
 [blog.osscameroon.com](https://blog.osscameroon.com)
 
 
 
-## Prerequisite
+## Prerequisites
 
 The blog is powered by the [Hugo](https://gohugo.io/) website generator, with the [Chunky Poster](https://github.com/puresyntax71/hugo-theme-chunky-poster) theme and might require you to have a set of tools installed on your local machine such as :
 
-* The **Hugo** cli tool, follow [this steps](https://gohugo.io/getting-started/installing) to install hugo
-* And a Markdown text editor (We can recommend you [**Typora**](https://typora.io/))
+* The **Hugo** cli tool, follow [these steps](https://gohugo.io/getting-started/installing) to install **Hugo**
+* And a Markdown text editor (We recommend [**Typora**](https://typora.io/))
 
-Learn more about **Hugo** [here](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&ab_channel=MikeDane) or read the [documentation](https://gohugo.io/getting-started/quick-start/)
+Learn more about **Hugo** [here](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&ab_channel=MikeDane) or read the [documentation](https://gohugo.io/getting-started/quick-start/).
 
 
 
 
 ## Run it locally
 
-Once you have cloned this repository and installed **Hugo** as described [here](https://gohugo.io/getting-started/installing/), you can run the server locally with this command
+Once you have cloned this repository and installed **Hugo** as described [here](https://gohugo.io/getting-started/installing/), you can run the server locally with this command:
 
 ```shell
 $> hugo serve -D
@@ -66,20 +66,20 @@ Now that your server is running open your web browser on the url displayed in yo
 
 ## How to add a blog post
 
-To add a blog post make sure you are the root of the directory then run :
+To add a blog post, make sure you are in the root of the directory then run:
 
 ```shell
 $> hugo new post/my_new_post.md
 /Users/<repository_path>/osscameroon-blog/content/post/<my_new_post_name>.md created		
 ```
 
-Now that your post has been added it should be visible on your local instance at http://localhost:1313
+Now that your post has been added it should be visible on your local instance at http://localhost:1313.
 
 
 
 ##### Add your blog post content
 
- Open `/osscameroon-blog/content/post/articles/<my_new_post_name>.md` in your text editor and add you blog content.
+ Open `/osscameroon-blog/content/post/articles/<my_new_post_name>.md` in your text editor and add your blog content.
 
 
 
@@ -94,7 +94,7 @@ $> hugo new authors/<new_author_name>/_index.md
 
 
 
-The `/content/authors/<new_author_name>/_index.md` file was created and contains new author metadata as follow
+The `/content/authors/<new_author_name>/_index.md` file was created and contains new author metadata as follows:
 
 ```yaml
 ---
@@ -108,15 +108,15 @@ twitter: ""
 
 ##### Add Twitter metadata
 
-You can add the new author Twitter handle in `twitter` field in the `/content/authors/<new_author_name>/_index.md` file 
+You can add the new author Twitter handle in the `twitter` field in the `/content/authors/<new_author_name>/_index.md` file.
 
 
 
 ##### Add images
 
-Add images for the new author in the `images` field in the `/content/authors/<new_author_name>/_index.md` file, the first image will be used as a profile picture
+Add images for the new author in the `images` field in the `/content/authors/<new_author_name>/_index.md` file. The first image will be used as a profile picture.
 
-**Note** The images must be added in the new author directory `/content/authors/<new_author_name>/image.png` the added in the `_index.md` as follow
+**Note** The images must be added in the new author directory `/content/authors/<new_author_name>/image.png` the added in the `_index.md` as follows:
 
 ```yaml
 ---
@@ -140,7 +140,7 @@ $> hugo new post/contributors/<new_contributor_name>.md
 ```
 
 
-Your new contributor `<new_contributor_name>.md` file hase been created now add something about him
+Your new contributor `<new_contributor_name>.md` file has been created, now add something about him.
 
 
 ##### Manually
@@ -160,7 +160,7 @@ authors: ["<new_contributor_name"]
 
 ## How Deploy the blog
 
-To deploy the blog run this command
+To deploy the blog, run this command:
 
 ```shell
 cd ./scripts/ && ./deploy.sh
@@ -168,10 +168,10 @@ cd ./scripts/ && ./deploy.sh
 
 
 
-This command might not work due to missing credentials contact the project maintainers to get some help
+This command might not work due to missing credentials. Contact the project maintainers to get some help.
 
 
 
 ## Licence
 
-The website is under the  [GPL-3.0 License](https://github.com/osscameroon/osscameroon-blog/blob/main/LICENSE) license, but the blog post are the exclusive property of [OssCameroon](https://osscameroon.com)
+The website is under the  [GPL-3.0 License](https://github.com/osscameroon/osscameroon-blog/blob/main/LICENSE) license, but the blog post are the exclusive property of [OssCameroon](https://osscameroon.com).
