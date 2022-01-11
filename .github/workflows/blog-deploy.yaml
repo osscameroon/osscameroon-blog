@@ -99,3 +99,38 @@ jobs:
             to: ${{ secrets.TELEGRAM_OSSCAMEROON_CHANNEL_ID }}
             token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
             message_file: message
+        - name: Get tweet content
+          run: |
+            find ./content/post -name '*.md' | sort | uniq > current_branch_files
+            CURRENT_BRANCH_FILES=$(cat current_branch_files)
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git stash && git checkout HEAD~ && git clean -fdx && \
+            find ./content/post -name '*.md' | sort | uniq > previous_branch_files
+            PREVIOUS_BRANCH_FILES=$(cat previous_branch_files)
+            echo "current_branch_files=$CURRENT_BRANCH_FILES"
+            echo "========================================="
+            echo "previous_branch_files=$PREVIOUS_BRANCH_FILES"
+            echo "++++++++++++++++++++++++++++++++++++++++++++"
+            echo "$CURRENT_BRANCH_FILES" > current_branch_files
+
+            set +e
+            POTENTIAL_ARTICLES=$(diff current_branch_files previous_branch_files | grep "content" | sed 's/[<>] //g')
+            set -e
+
+            #Fail if there was no potential articles found
+            test ! -z "$POTENTIAL_ARTICLES"
+            echo "message<<EOF" >> $GITHUB_ENV
+            echo "Checkout this article on our blog." >> $GITHUB_ENV
+            for article in $POTENTIAL_ARTICLES; do
+              echo "> https://blog.osscameroon.com$(echo $article | sed "s/\.md//g; s/^\.\/content//g")" >> $GITHUB_ENV
+            done
+            echo "EOF" >> $GITHUB_ENV
+        - name: Send tweet when new blog article is created
+          uses: devigned/go-twitter-action@v1
+          with:
+            message: ${{ env.message }}
+            apiKey: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+            apiKeySecret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+            accessToken: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+            accessTokenSecret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
