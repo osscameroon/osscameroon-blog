@@ -99,7 +99,7 @@ jobs:
             to: ${{ secrets.TELEGRAM_OSSCAMEROON_CHANNEL_ID }}
             token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
             message_file: message
-        - name: Get tweet content
+        - name: Build tweet content
           run: |
             find ./content/post -name '*.md' | sort | uniq > current_branch_files
             CURRENT_BRANCH_FILES=$(cat current_branch_files)
