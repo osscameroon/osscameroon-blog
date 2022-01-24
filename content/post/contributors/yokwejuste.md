@@ -6,5 +6,5 @@ categories: ["Web development", "Data Science", "Blockchain", "Cloud Computing"]
 tags: ["Open-source", "github"]
 authors: ["yokwejuste"]
 ---
-Hi, I'm Yokwejuste, a young inspired blogger, aspiring to be a computer engineering. I like trying everything and being involved in everything tech 😅.
+Hi, I'm Yokwejuste, a young inspired blogger, aspiring to be a computer engineer. I like to try everything and being involve in tech 😅.
 The fields in which I'm involved include: Data Science, Web Development, blockchain, Cloud Computing and AI.
