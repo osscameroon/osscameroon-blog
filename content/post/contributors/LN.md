@@ -6,5 +6,5 @@ authors: ["LN"]
 
 Hi 👋🏼, I'm Leonel Ngoya (you can call me LN).
 I'm a front-end developer living in Douala.
-I love everything beautiful which is why I love CSS and creative development.
+I love beautiful things, that's why I love CSS and creative development.
 If you want to know more about me, you can visit my Portfolio ( https://lndev.me )
