@@ -1,6 +1,6 @@
 ---
 title: The Typewriter Animation
-date: 2022-10-08T00:15:28+01:00
+date: 2022-01-12T00:15:28+01:00
 images: []
 categories: [tutorial, blogging, newbies, fun]
 tags: [typewriter, animation, css, javascript]
