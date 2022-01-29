@@ -165,8 +165,8 @@ The keyframes :sweat_smile:
         }
     </style>
     <body>
-        <div class="typewriter">
-            <div class="typewriter-text">Twinkle, twinkle, little star.</div>
+        <div class="writer">
+            <div class="writer-text">Twinkle, twinkle, little star.</div>
         </div>
 
     </body>
