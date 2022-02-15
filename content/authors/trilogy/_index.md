@@ -1,5 +1,5 @@
 ---
 name: "Ghislain Tchangang"
-images: ["trilogy.png"]
+images: ["trilogy.jpg"]
 twitter: "blvckTheRippa"
 ---
