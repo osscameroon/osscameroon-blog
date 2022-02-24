@@ -17,8 +17,9 @@ authors: [pythonbrad]
     2. [Dhcpd](#dhcpd)
     3. [Wifi card](#a-wifi-card-with-ap-mode-support-is-needed)
 4. [Implementation phase](#implementation-phase)
-    1. [Sample configuration](#80211bgn-with-wpa2-psk-and-ccmp)
-    2. [Trible AP](#80211bgn-triple-ap)
+    1. [Installation of hostapd](#installation-of-hostapd)
+    2. [Sample configuration](#80211bgn-with-wpa2-psk-and-ccmp)
+    3. [We can start our AP](#we-can-start-our-ap)
 
 ## What is a hotspot ?
 
@@ -55,25 +56,24 @@ dhcpd is a DHCP server program that operates as a daemon on a server to provide 
                          * P2P-client
                          * P2P-GO
 
+## Installation of hostapd
+
+We need to download and compile the hostapd source.
+
+```sh
+wget -t 3 https://w1.fi/cgit/hostap/snapshot/hostap_2_10.tar.gz
+tar -xf hostap_2_10.tar.gz
+cd hostap_2_10/hostapd
+cp defconfig .config
+make
+make install
+```
+
 ## Implementation phase
 
 We need to config our hostapd.
 
-Before it, we need to disable our wireless interface as client.
-
-#### Sample network configuration for an AP
-
-An AP's interface really is just an Ethernet interface:
-
-###### FILE: /etc/conf.d/net
-
-```ini
-(...)
-modules_wlan0="!iwconfig !wpa_supplicant !iw" # by default wireless interfaces are assumed to be clients, not APs
-config_wlan0="192.168.42.1/24"            # the AP's IP and network
-```
-
-#### Sample configurations
+#### Sample configuration
 
 ##### 802.11b/g/n with WPA2-PSK and CCMP
 
@@ -108,45 +108,36 @@ rsn_pairwise=CCMP
 wpa_passphrase=somepassword
 ```
 
-##### 802.11b/g/n triple AP
+### We can start our AP
 
-Three APs on the same card, one with WPA2, one with WPA1, one without encryption.
+Before it, we need to disable our wireless interface as client.
 
-Hostapd automatically creates new interfaces for the extra APs:
+```sh
+kill $pidof(wpa_supplicant)
+```
 
-###### FILE: /etc/hostapd/hostapd.conf
+An AP's interface really is just an Ethernet interface, then we need to config the AP's IP and network.
 
-```ini
-interface=wlan0
-hw_mode=g
-channel=10
-ieee80211d=1
-country_code=FR
-ieee80211n=1
-wmm_enabled=1
+```sh
+ip addr add 192.168.237.1 dev wlan0
+```
 
-# First AP
-ssid=test1
-auth_algs=1
-wpa=2
-wpa_key_mgmt=WPA-PSK
-rsn_pairwise=CCMP
-wpa_passphrase=somepassword
+We can start now our AP.
 
-# Second AP
-# the name of the new interface hostapd will create to handle this AP 
-bss=wlan1
-ssid=test2
-auth_algs=1
-wpa=1
-wpa_key_mgmt=WPA-PSK
-wpa_passphrase=someotherpassword
+```sh
+hostapd /etc/hostapd/hostapd.conf
+```
 
-# Third AP
-# the name of the new interface hostapd will create to handle this AP 
-bss=wlan2
-ssid=test3
-# since there is no encryption defined, none will be used
+## Installation of a DNS Server
+
+```sh
+wget -t 3 https://github.com/isc-projects/dhcp/archive/refs/tags/v4_4_2b1_f2.tar.gz
+tar -xf v4_4_2b1_f2.tar.gz
+cd dhcp-4_4_2b1_f2
+./configure
+make
+make install
+cd server/dhcpd /usr/bin
 ```
 
 ## Source:
