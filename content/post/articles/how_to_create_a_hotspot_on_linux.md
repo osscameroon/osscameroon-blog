@@ -17,7 +17,7 @@ authors: [pythonbrad]
     2. [Dhcpd](#dhcpd)
     3. [Wifi card](#a-wifi-card-with-ap-mode-support-is-needed)
 4. [Implementation phase](#implementation-phase)
-    1. [Simple configuration](#80211bgn-with-wpa2-psk-and-ccmp)
+    1. [Sample configuration](#80211bgn-with-wpa2-psk-and-ccmp)
     2. [Trible AP](#80211bgn-triple-ap)
 
 ## What is a hotspot ?
