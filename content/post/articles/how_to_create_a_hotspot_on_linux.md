@@ -32,7 +32,7 @@ We can have many methods to create a hotspot WIFI depending of your Linux 🐧. 
 
 #### hostapd
 
-hostapd is a user space daemon software enabling a network interface card to act as an access point and authentication server.
+hostapd is a user space daemon software enabling a network interface card to act as an Access Point (AP) and authentication server.
 
 Capabilities of Hostapd (What it can do)
 - Create an AP;
@@ -40,7 +40,7 @@ Capabilities of Hostapd (What it can do)
 
 #### dhcpd
 
-dhcpd is a DHCP server program that operates as a daemon on a server to provide Dynamic Host Configuration Protocol service to a network
+dhcpd is a DHCP server program that operates as a daemon on a server to provide Dynamic Host Configuration Protocol (DHCP) service to a network
 
 #### A WiFi card with AP mode support is needed:
         root # iw list | grep "Supported interface modes" -A 8
