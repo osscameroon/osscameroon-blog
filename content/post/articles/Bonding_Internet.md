@@ -10,7 +10,7 @@ authors: [Dr.W4bl4L]
 
 Être un Dev dans l’environnement camerounais relève souvent d’un parcours de combattant. Entre la capacité de produire des éléments qui seront innovants dans une société presque timide en matière d’équité et de reconnaissance du talent, à cela s’ajoute le problème d’infrastructure pourtant nécessaire au développeur, quel qu’en soit son niveau ou son talent.
 
-Nous pouvons évoquer la qualité de la bande passante Internet et la disponibilité de l’électricité, point pourtant nécessaire dans un écosystème déjà fragile comme celui du Cameroun, Sin parle d’économie numérique.
+Nous pouvons évoquer la qualité de la bande passante Internet et la disponibilité de l’électricité, point pourtant nécessaire dans un écosystème déjà fragile comme celui du Cameroun,  si nous devons parler d’économie numérique.
 
 Il y’a 05 opérateurs fournissant Internet au Cameroun, sans compter d’autres fournisseurs qui existent, ont des solutions plus ou moins proches des principaux qui fournissent aussi les services de voix. Il peut alors arriver que certaines zones même dans la cité capitale que politique n’aient pas une bonne couverture réseau ou n’aient pas accès à une bande passante fluide. Ceci peut être le cas pour d’autres consommateurs, hôtels, cybercafés (dont la tendance est de plus en plus faible), universités etc.
 
