@@ -185,14 +185,16 @@ authoritative;
 # subnet 10.14.8.195 netmask 255.255.255.0 {
 # }
 
-# But we do want to hand out leases for the 192.168.1.0/24
+# But we do want to hand out leases for the 192.168.237.0/24
 # network for purposes of this test..
 
 subnet 192.168.237.0 netmask 255.255.255.0 {
     range 192.168.237.100 192.168.237.150;
+    # option domain-name-servers      10.21.27.253;
     option routers 192.168.237.1;
 }
 # -------------------------
+
 ```
 
 ### We can start our DHCP server
