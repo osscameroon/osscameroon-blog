@@ -89,7 +89,7 @@ Our focus here is the `animation-timing-function` property which seems like a re
 What am I really doing here? :sweat_smile:
 
 - Pushing the characters one at a time in a cool and realistic fashion.
-- Specifying the number of frames( steps by steps series of frames and the intervals between them).
+- Specifying the number of frames (steps by steps series of frames and the intervals between them).
 ```
 .writer-text {
     display: inline-block;
