@@ -42,7 +42,7 @@ When you hear a specific piece of music, your brain will connect it to a particu
 
 **Dopamine** is a neurotransmitter that enables communication within the nervous system and directly influences our behavior. Motivation is the component that manages the brain's commitment to a specific activity, to our behavior. Dopamine plays a role in almost every activity and behavior of our body, whether cognitive or physical (movement coordination, fine motor control, pleasure,  memory, learning). Dopamine and motivation are closely linked. Remember, pleasant stimulus induces positive effects. That stimulus for us while coding is music when you listen to music that you like, that you love, that makes you feel several things at the same time, that gives you strength, it helps you to move forward, to surpass yourself, to push you to continue even here it is difficult. That is the role of the music while you code, to trigger an action at the desired intensity ensure its continuation until the result(the good one solved problems).
 
-# For some, music is unuseful while coding
+# For some, music is useless while coding
 
 I think liking the music or not liking it while coding depends on the song, task, and individual personality.
 There are several types of developers who use many methods to increase their productivity, their concentration we can retain 3 types of them:
