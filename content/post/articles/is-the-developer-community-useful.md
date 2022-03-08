@@ -9,14 +9,13 @@ authors: ["Shaba-Rex"]
 
 {{<figure src="/is-developer-community-useful/osslogo.png"  alt="Open source community">}}
 
-An open-source community is a set of contributors from all over the world who share an interest in meeting a common need, starting from small projects to large ones, typically software projects. They carry them out in a high-performance collaborative development environment, allowing the organizational scheme and processes to emerge over time.
+An open-source community(OSC) is a set of contributors from all over the world who share an interest in meeting a common need, starting from small projects to large ones, typically software projects. They carry them out in a high-performance collaborative development environment, allowing the organizational scheme and processes to emerge over time.
 
 A developer community is a group of developers gathered to achieve a common goal. They come together to share their knowledge, improve the skills of participants. The developer community is an OSC, it is one of its many forms(developer communities, user communities,…). The answer to the question ‘*is the developer community useful?*’ is obviously yes in this article, it will not be for us to discuss the usefulness of an OSC(in our case, it is a developer community), but rather to demonstrate it through two main questions:
 
 * *What does a developer community do for developers?*
 * *What does a developer community do for society?*
 
->*OSC means Open Source Community. In this article, this word will refer to the community of developers.*
 
 # Developers join communities
 
