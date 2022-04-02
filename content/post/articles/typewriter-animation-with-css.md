@@ -172,12 +172,6 @@ The keyframes :sweat_smile:
     </body>
 </html>
 ```
-### The result:
-<div class="writer">
-    <div class="writer-text">
-    Happy to contribute for OSS-Cameroon blog.
-    </div>
-</div>
 
 ## Conclusion 💗
 
