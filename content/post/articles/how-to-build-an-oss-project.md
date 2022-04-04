@@ -6,7 +6,7 @@ authors: [Elhmn]
 ---
 
 Our goal in the osscameroon community is to build the opensource solutions our country needs.
-Unfortunately building open source solutions can be quite challenging, thus we will try to share few recommendations that we beleive can help you bring a project to fruition.
+Unfortunately building open source solutions can be quite challenging, thus we will try to share few recommendations that we believe can help you bring a project to fruition.
 
 #### The team
 It is important to keep the team working on the initial phase of the project small.
@@ -158,6 +158,6 @@ We are currently working improving the automatic deployment of our solutions, yo
 
 It is fun to work on new projects, we solve problems in our communities, we learn new things work with amazing enginneers.
 But if we are not careful this work can quickly lead nowhere and our projects become a pain to maintain in the future.
-We hope this few recommendations will help you beleive that it is possible to build opensource project with a community of passianate developers.
+We hope this few recommendations will help you believe that it is possible to build opensource project with a community of passianate developers.
 
 Now feel free to checkout our list of [project ideas](https://github.com/osscameroon/project-ideas), build a team if necessary and start working it.
