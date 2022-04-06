@@ -99,7 +99,7 @@ Maintaining an open-source project is a long-term commitment. And keeping things
 
 - **Avoid self-managed Databases** as they require a massive amount of operational work. Generally speaking, we recommend you design your application using file **databases** like a YAML file or SQL-lite. [camerapps][6] is an excellent example of an application that uses a YAML file as a Database. We are working on making more use of SQL lite.
 
-- **Ask for a managed Database** we acknowledge that it might be essential to spin up a database for a few projects. If you think your application needs one [talk to us][7], we probably think it doesn’t, but we are open.
+- **Ask for a managed Database** we acknowledge that it might be essential to spin up a database for a few projects. If you think your application needs one [talk to us][7], we think it probably doesn’t, but we are open.
 
 - **Write code for humans**, write code others will understand, and don’t try to prove a point by using nested ternaries or comprehensions, complicated OOP design patterns, or fancy architectures. Good patterns, abstractions, and architectures emerge while writing something functional and straightforward. Code readability and maintenance come first. Keep that in mind.
 
