@@ -57,7 +57,7 @@ Following the evolution of the project, keeping the communication flowing in the
 
 **Track the evolution of the project:**
 
-It is important to set a **daily, weekly, or monthly catch-up** on which you can go through the issues you have created and discuss the evolution of the project. For **jobsika**, we have set a weekly meeting that was sometimes canceled as some of us were busy during specific periods.
+It is important to set a **daily, weekly, or monthly catch-up** during which you can go through the issues you have created and discuss the evolution of the project. For **jobsika**, we have set a weekly meeting that was sometimes canceled as some of us were busy during specific periods.
 
 Be mindful of other people’s time. It is acceptable for your collaborators to show up at a meeting with no work to report. They were probably busy or not inspired. What is essential is not to lie and be transparent about what you have accomplished. In some cases, a contributor won’t be productive for about two months or not be very present. Their motivation to work on the project might be in question, which should be discussed with them. They might need to quit the project for a while.
 
