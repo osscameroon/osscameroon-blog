@@ -67,7 +67,7 @@ Track issues using [GitHub projects][1]. You can also use a kanban board during 
 
 Once you have formed a team to work on your project, it can be helpful to create a chat group for you to share information, ask for help, and discuss everything related to the project.
 
-For **jobsika** and other projects at osscameroon, we created telegram groups. Using telegram group helps us kick off instant voice chat, which is pretty neat.
+For **jobsika** and other projects at osscameroon, we created telegram groups. Using telegram group helps us kick off instant voice chats, which is pretty neat.
 
 **Setting realistic milestones:**
 
