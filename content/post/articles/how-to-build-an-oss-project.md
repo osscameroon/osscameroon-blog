@@ -13,7 +13,7 @@ It is essential to keep the team working on the initial phase of the project sma
 
 - For a very simple project, meaning that it is not made up of several components, an API + mobile or web user interface, for instance, a single developer is enough.
 
-- Suppose your project requires several components or services, such as a typical frontend + backend app. In that case, you can add a developer and split the work between the frontend and backend to reduce friction. The team may also require a designer, in which case they will be the 3rd member of that small and effective team.
+- Suppose your project requires several components or services, such as a typical frontend + backend app. In that case, you can add a developer and split the work between the frontend and backend to reduce friction. The team may also require a designer, in which case there will be the 3rd member of that small and effective team.
 
 - It might be possible to have teams of 4 to 5 members. We do not recommend having teams of more than 3 people, but make sure you have at least a person doing the vital project management work.
 
