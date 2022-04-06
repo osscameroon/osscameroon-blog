@@ -115,7 +115,7 @@ To deploy your application, we recommend these solutions:
 
 - **Docker containers** are the recommended way to package your application. If you have a workflow that generates a Docker image, we can use our artifact management system to deploy your application on our servers.
 
-- **Traditional Apache or APM** deployment, we also provide GitHub Action workflows to deploy your applications on Apache and APM.
+- **Traditional Apache or PM2** deployment, we also provide GitHub Action workflows to deploy your applications on Apache and PM2.
 
 We are currently working on improving the automatic deployment of our solutions, and you can read [this architecture draft][11] for our artifact management system. It is already used to deploy **jobsika**, but we will share more about that in the future.
 
