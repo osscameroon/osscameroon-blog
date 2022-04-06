@@ -21,7 +21,7 @@ It is essential to keep the team working on the initial phase of the project sma
 
 Incentives to work on an open-source project can evolve, and it can be challenging to keep your motivation strong to release a project. Something that can help you move forward is to size the first release of your project to something that can provide the most value in the shortest amount of time.
 
-**Example:**
+##### Example:
 
 We wanted to build [jobsika](https://github.com/osscameroon/camerdevs), a platform that will allow developers to share their salaries, review and rate their experience when working for companies, and share their availabilities for jobs. Here is what we did to scope down the project.
 
@@ -89,7 +89,7 @@ Building applications made of multiple components in a microservice architecture
 
 Maintaining an open-source project is a long-term commitment. And keeping things simple will considerably improve first-time contributions and your motivation to maintain your projects.
 
-**How to keep things simple:**
+##### How to keep things simple:
 
 - **Build a monolith** by default. Sometimes you might want to split your frontend and backend to ease the development of your team. It is totally fine. But build a monolith as far as the backend is concerned.
 
