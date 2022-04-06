@@ -8,4 +8,4 @@ Software Engineer at [GitHub](https://github.com/), I build video games, draw an
 
 I felt in love with code while playing video games, and got the chance to study software development, at [Ecole 42](https://42.fr/en/homepage/) in Paris.
 
-I currently spend most of time providing support to aspiring developers from Cameroon and maintaining osscameroon's open-source projects.
+I currently spend most of my time providing support to aspiring developers from Cameroon and maintaining osscameroon's open-source projects.
