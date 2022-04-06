@@ -4,4 +4,8 @@ date: 2021-01-29T20:33:40+01:00
 authors: ["Elhmn"]
 ---
 
-Hi! I’m **Boris Mbarga**. Self-taught and passionate software engineer. I’m mainly interested in computer graphics, artificial intelligence web/software/mobile development, Math, Physics and visual art. I enjoy finding elegant solutions to relatively complex problems you might encounter. But what I like the most is to share and learn from others.
+Software Engineer at [GitHub](https://github.com/), I build video games, draw and play piano.
+
+I felt in love with code while playing video games, and got the chance to study software development, at [Ecole 42](https://42.fr/en/homepage/) in Paris.
+
+I currently spend most of my time providing support to aspiring developers from Cameroon and maintaining osscameroon's open-source projects.
