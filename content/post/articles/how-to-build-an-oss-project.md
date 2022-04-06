@@ -128,7 +128,7 @@ Now feel free to check out our list of [project ideas][12], build a team if nece
 [1]: https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects
 [2]: https://github.com/orgs/osscameroon/projects/4
 [3]: https://firebase.google.com/
-[4]: https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_germany_search_nbnoncompetitor_atlas_desktop&utm_term=firebase&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12314592846&adgroup=133214220641&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGpMNz9_UotyJFwj_vvReJ2aaDG7ZevkrxlprDrea47UuYpGMVchTRBoC7vkQAvD_BwE
+[4]: https://www.mongodb.com/cloud/atlas/lp/try2
 [5]: https://t.me/+UpKZh_KXTaTx7JD7
 [6]: https://github.com/osscameroon/camerapps.com
 [7]: https://t.me/+UpKZh_KXTaTx7JD7
