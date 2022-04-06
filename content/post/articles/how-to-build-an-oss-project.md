@@ -23,7 +23,7 @@ Incentives to work on an open-source project can evolve, and it can be challengi
 
 **Example:**
 
-We wanted to build **jobsika**, a platform that will allow developers to share their salaries, review and rate their experience when working for companies, and share their availabilities for jobs. Here is what we did to scope down the project.
+We wanted to build [jobsika](https://github.com/osscameroon/camerdevs), a platform that will allow developers to share their salaries, review and rate their experience when working for companies, and share their availabilities for jobs. Here is what we did to scope down the project.
 
 **Drop what’s unnecessary:**
 
