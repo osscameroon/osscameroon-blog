@@ -11,7 +11,7 @@ Our goal in the osscameroon community is to build the open-source solutions our 
 
 It is essential to keep the team working on the initial phase of the project small. Depending on the project's complexity, the team should be composed of 1 to 3 people.
 
-- For a very simple project, meaning that it is not composed of several components, an API + mobile or web user interface, for instance, a single developer is enough.
+- For a very simple project, meaning that it is not made up of several components, an API + mobile or web user interface, for instance, a single developer is enough.
 
 - Suppose your project requires several components or services, such as a typical frontend + backend app. In that case, you can add a developer and split the work between the frontend and backend to reduce friction. The team may also require a designer, in which case they will be the 3rd member of that small and effective team.
 
