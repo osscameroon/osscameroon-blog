@@ -69,8 +69,8 @@ Now that your server is running open your web browser on the url displayed in yo
 To add a blog post, make sure you are in the root of the directory then run:
 
 ```shell
-$> hugo new post/my_new_post.md
-/Users/<repository_path>/osscameroon-blog/content/post/<my_new_post_name>.md created		
+$> hugo new post/articles/my_new_post.md
+/Users/<repository_path>/osscameroon-blog/content/post/articles/<my_new_post_name>.md created		
 ```
 
 Now that your post has been added it should be visible on your local instance at http://localhost:1313.
