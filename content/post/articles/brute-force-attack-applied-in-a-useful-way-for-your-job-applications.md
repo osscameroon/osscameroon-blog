@@ -11,7 +11,7 @@ Hi mates, Hope you doing good.
 
 As you already know, you can apply through many ways.
 
-Here, I'm sharing what I used to do. This method is useful because **you speak directly with an employee who may give you more information about the role, the relocation package and other useful information. Based on my experience, it works really quick.**
+Here, I'm sharing what I used to do. This method is useful because **you speak directly with an employee who may give you more information about the role, the relocation package and other useful information. Based on my experience, it works and is really fast.**
 
 **Furthermore, if you need more information, you can speak directly with the employee instead of sending email and wait sometimes for a long time before getting a reply or no reply at all.** 
 
