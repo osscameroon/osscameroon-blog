@@ -2,8 +2,6 @@
 title: "Fanjups"
 date: 2022-04-10T21:02:56+02:00
 images: []
-categories: []
-tags: []
 authors: ["Fanon Jupkwo"]
 ---
 
