@@ -24,6 +24,6 @@ Open Source projects:
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
 
 
-On November 2019, I wrote my first article [Applying CI/CD to Java Apps Using Spring Boot](https://dzone.com/articles/applying-cicd-to-java-apps-using-spring-boot)-> [GitHub repository](https://github.com/FanJups/cicd-applied-to-spring-boot-java-app). It's a way to thank people who helped me to become the developer I am today and share my experiences. Here, I will also write articles so let's go !
+On November 2019, I wrote my first article [Applying CI/CD to Java Apps Using Spring Boot](https://dzone.com/articles/applying-cicd-to-java-apps-using-spring-boot)-> [GitHub repository](https://github.com/FanJups/cicd-applied-to-spring-boot-java-app). It's a way to thank people who helped me to become the developer I am today and share my experiences. Here, I will also write articles so let's go!
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/fanon-jupkwo/) & [Twitter](https://twitter.com/fanjups)
