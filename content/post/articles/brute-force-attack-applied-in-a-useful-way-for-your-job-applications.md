@@ -21,6 +21,6 @@ This approach works like a charm. How does it work ? Search on LinkedIn: **"{com
 
 This is a tip that I always use on LinkedIn.
 
-Have a nice job applicationd journey 🙂 !
+Have a nice job application journey 🙂 !
 
 **#job #hr #jobsearch #linkedin #recruiter #experience #talentacquisitionspecialist**
