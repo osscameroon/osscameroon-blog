@@ -15,7 +15,7 @@ Here, I'm sharing what I used to do. This method is useful because **you speak d
 
 **Furthermore, if you need more information, you can speak directly with the employee instead of sending email and wait sometimes for a long time before getting a reply or no reply at all.** 
 
-This approach works like a charm. How does it work ? Search on LinkedIn: **"{company.name} {country.name} Talent " and "{company.name} {country.name} Recruiter ".** It is a keywords search that will show you employees working in the Human Resources department (HR). HR is often called Talent Acquisition Specialist or Recruiter. This is why, I am using the words Talent and Recruiter in my search. It depends on what you are looking for. **Here, I'm a looking for a recruiter / Talent Acquisition Specialist so choose your keywords wisely.**
+This approach works like a charm. How does it work ? Search on LinkedIn: **"{company.name} {country.name} Talent " and "{company.name} {country.name} Recruiter ".** It is a keywords search that will show you employees working in the Human Resources department (HR). HR is often called Talent Acquisition Specialist or Recruiter. This is why I am using the words Talent and Recruiter in my search. It depends on what you are looking for. **Here, I'm a looking for a Recruiter / Talent Acquisition Specialist so choose your keywords wisely.**
 
 **My advice, send at least 10 PERSONALIZED INVITATIONS not simple ones per search on LinkedIn. Not everyone will accept, but the most important thing is that at least one person from the target company will accept. Then, you will move forward quickly with your job search.** 
 
