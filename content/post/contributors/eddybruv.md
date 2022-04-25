@@ -1,15 +1,20 @@
 ---
 title: "Eddybruv"
-date: 2022-04-25T03:44:25+01:00
+date: 2022-04-25T03:19:23+01:00
+images: []
 categories: []
 tags: []
 authors: ["eddybruv"]
 ---
- 
-Hi, I'm Edwin Ajong. I'm a software engineering student at the University of Buea.
 
-I'm currently working on building fullstack websites with JavaScript.
+Hello, I'm Edwin Ajong, you can call me Eddy👀. I'm a level 300 student in UB(means its my 2nd year in university)😅, reading computer engineering(Faculty of Engineering and Technology).
 
-My interests include devops, machine learning, and blockchain. Out of code, I love to play games, and I love football
+I started my journey in this tech field just about a year ago when I got into the univeristy. So far, the journey has been an exciting one, not an easy on tho😐, but I guess we all have to be consistent to make it😁.
 
-See you at the top🚀.
+The skills in my arsenal are: C, HTML5, CSS3, Bootstrap,  JavaScript, ReactJS, Express, Node, MongoDB.
+
+Together with the above, I'm currently learning python, java(for school purposes), and NextJS.
+
+I'm happy to belong to this tech community✊.
+
+Nice to meet you💖.
