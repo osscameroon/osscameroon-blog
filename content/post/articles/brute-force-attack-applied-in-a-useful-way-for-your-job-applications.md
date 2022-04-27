@@ -9,7 +9,7 @@ authors: [Fanon Jupkwo]
 
 Hi mates, Hope you are doing good.
 
-As you already know, you can apply through many ways.
+As you already know, you can apply in many ways.
 
 Here, I'm sharing what I used to do. This method is useful because **you speak directly with an employee who may give you more information about the role, the relocation package and other useful information. Based on my experience, it works and is really fast.**
 
