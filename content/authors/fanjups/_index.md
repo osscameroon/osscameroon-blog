@@ -10,7 +10,7 @@ I am a passionate and fanatic learner.
 
 As an app, I regularly update myself.
 
-I'm a Java Software Engineer working on Open Source and Non Open Source projects.
+I'm a Java Software Engineer working on Open Source and Non-Open Source projects.
 
 Open Source projects:
 
