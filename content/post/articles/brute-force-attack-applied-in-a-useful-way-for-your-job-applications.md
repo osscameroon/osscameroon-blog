@@ -7,7 +7,7 @@ tags: []
 authors: [Fanon Jupkwo]
 ---
 
-Hi mates, Hope you doing good.
+Hi mates, Hope you are doing good.
 
 As you already know, you can apply through many ways.
 
