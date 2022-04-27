@@ -13,7 +13,7 @@ As you already know, you can apply in many ways.
 
 Here, I'm sharing what I used to do. This method is useful because **you speak directly with an employee who may give you more information about the role, the relocation package and other useful information. Based on my experience, it works and is really fast.**
 
-**Furthermore, if you need more information, you can speak directly with the employee instead of sending email and wait sometimes for a long time before getting a reply or no reply at all.** 
+**Furthermore, if you need more information, you can speak directly with the employee instead of sending an email and wait sometimes for a long time before getting a reply or no reply at all.** 
 
 This approach works like a charm. How does it work? Search on LinkedIn: **"{company.name} {country.name} Talent " and "{company.name} {country.name} Recruiter ".** It is a keywords search that will show you employees working in the Human Resources department (HR). HR is often called Talent Acquisition Specialist or Recruiter. This is why I am using the words Talent and Recruiter in my search. It depends on what you are looking for. **Here, I'm looking for a Recruiter / Talent Acquisition Specialist so choose your keywords wisely.**
 
