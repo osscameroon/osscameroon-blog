@@ -4,4 +4,4 @@ date: 2022-02-19T13:01:54+01:00
 authors: ["Brice Kams"]
 ---
 
-Hi, am Brice Kams, i'm learning code to be a great softwware developper.
+Hi, I am Brice Kams, I'm learning code to be a great software developer.
