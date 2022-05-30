@@ -2,9 +2,9 @@
 title: "Brute Force Attack Applied in a Useful Way for Your Job Applications"
 date: 2022-04-10T20:34:26+02:00
 images: []
-categories: [Human Resources,Job Applications]
-tags: []
-authors: [Fanon Jupkwo]
+categories: ["Human Resources","Job Applications"]
+tags: ["job","hr","jobsearch","linkedin","recruiter","experience","talentacquisitionspecialist"]
+authors: ["fanjups"]
 ---
 
 Hi mates, Hope you are doing good.
@@ -22,5 +22,3 @@ This approach works like a charm. How does it work? Search on LinkedIn: **"{comp
 This is a tip that I always use on LinkedIn.
 
 Have a nice job application journey 🙂 !
-
-**#job #hr #jobsearch #linkedin #recruiter #experience #talentacquisitionspecialist**
