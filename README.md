@@ -1,5 +1,7 @@
 # osscameroon-blog
 
+# THIS PROJECT IS DEPRECATED AND ARCHIVED, WE'RE NOT MAINTAINING THAT ANYMORE, PLEASE CHECK THE NEW VERSION HERE : https://github.com/osscameroon/blog
+
 OSS Cameroon blogging website
 
 [blog.osscameroon.com](https://blog.osscameroon.com)
