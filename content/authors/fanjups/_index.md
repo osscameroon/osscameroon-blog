@@ -1,6 +1,6 @@
 ---
-name: "Fanon Jupkwo"
-images: [fanjups.jpg]
+name: "fanjups"
+images: ["fanjups.jpg"]
 twitter: "FanJups"
 ---
 

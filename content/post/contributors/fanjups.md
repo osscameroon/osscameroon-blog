@@ -1,8 +1,8 @@
 ---
-title: "Fanjups"
+title: "Fanon Jupkwo"
 date: 2022-04-10T21:02:56+02:00
 images: []
-authors: ["Fanon Jupkwo"]
+authors: ["fanjups"]
 ---
 
 Hello World & Welcome to Planet FanJups 🚀 👋
@@ -14,10 +14,11 @@ As an app, I regularly update myself.
 I'm a Java Software Engineer working on Open Source and Non-Open Source projects.
 
 Open Source projects:
-
+https://blog.osscameroon.com/post/contributors/fanjups/
 - [Open Source Society Cameroon's jsGenerator](https://github.com/osscameroon/js-generator/commits?author=FanJups)
 - [Google's Mug Project ](https://github.com/google/mug/commits?author=FanJups)
 - [Société Générale's ArchUnit Build Plugin Core Project](https://github.com/societe-generale/arch-unit-build-plugin-core/commits?author=FanJups)
+- [Société Générale's ArchUnit Build Maven Plugin Project](https://github.com/societe-generale/arch-unit-maven-plugin/commits?author=FanJups)
 - [Microsoft's Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure/commits?author=FanJups)
 - [Apple's ServiceTalk](https://github.com/apple/servicetalk/commits?author=FanJups)
 
